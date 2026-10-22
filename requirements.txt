@@ -1,5 +1,5 @@
 beautifulsoup4==4.8.1
-Pillow==9.0.1
+Pillow==13.0.0
 selenium==3.141.0
-soupsieve==1.9.5
-urllib3==1.26.5
+soupsieve==2.9
+urllib3==2.8.0
